@@ -277,7 +277,7 @@ This is a summary of the data that must be stored to support the correct parsing
 
 The 3rd output in this example is a vector of 4 Float32 which corresponds to a quaternion. The quaternion is displayed in view #3 ("Graph") and also sent to view #4 ("Fusion" which displays a an animated 3D model with the orientation specified by the quaternion, the 3D model is the well-know "teapot" or the model of the device with sensors).
 
-![alt text](img\AlgoBuilderProtocol_Picture1.png)
+![AlgoBuilderProtocol_Quaternions_Graph.png](img/AlgoBuilderProtocol_Quaternions_Graph.png)
 
 ### 2.7 Get Display configuration
 The command "CMD_Sensor" with “SC_GET_CONFIG_STRING” subcommand is used to retrieve the display configuration for view (connection index) of the output data.   

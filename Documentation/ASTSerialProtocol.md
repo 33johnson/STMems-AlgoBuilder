@@ -32,7 +32,7 @@ Where:
 ## 2. Processes involved in sending/receiving packets
 The following figure shows the sequence of steps to send and receive a packet. Checksum and byte stuffing functions, and their inverse, ensure the correct transmission of the messages.
 
-![Sending/Receiving packets](img\SerialProtocol_Sending_Receiving_Packets.png)
+![SerialProtocol_Sending_Receiving_Packets.png](img/SerialProtocol_Sending_Receiving_Packets.png)
 
 ### 2.1 Checksum Algorithm
 The checksum algorithm ensures that the packet you handle contains the correct information. 
