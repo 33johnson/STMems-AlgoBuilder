@@ -2,7 +2,7 @@
 
 ## 1. Communication protocol
 
-AST serial protocol is used for communication. The protocol is described in [AST Serial Protocol](ASTSerialProtocol2.md) file. All necessary functions are defined in *serial_protocol.c* and *serial_protocol.h* files which can be found inside the firmware template directory.
+AST serial protocol is used for communication. The protocol is described in [AST Serial Protocol](ASTSerialProtocol.md) file. All necessary functions are defined in *serial_protocol.c* and *serial_protocol.h* files which can be found inside the firmware template directory.
 
 ## 2. Communication over virtual COM port (VCOM)
 
