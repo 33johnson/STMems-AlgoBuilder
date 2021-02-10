@@ -1,7 +1,7 @@
 # STMems-AlgoBuilder
 
 ## Overview
-[AlgoBuidler](https://www.st.com/en/development-tools/algobuilder.html) graphical design application to build and use algorithms.
+[AlgoBuilder](https://www.st.com/en/development-tools/algobuilder.html) graphical design application to build and use algorithms.
 
 ![AlgoBuilder Screenshot](Documentation/img/Algobuilder_Screenshot.png)
 
